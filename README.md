@@ -10,6 +10,8 @@
 
 [![Kyunghwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungHwa0&theme=nord&hide_border=true&count_private=true)](https://github.com/KyungHwa0/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHwa0&layout=compact&theme=tokyonight)
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/wagzack/">
