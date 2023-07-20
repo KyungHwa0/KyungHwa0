@@ -12,10 +12,10 @@
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/wagzack/">
+    <a href="https://www.instagram.com/wagzack/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-    <a href="mailto:snoopn@naver.com">
+    <a href="mailto:snoopn@naver.com" target="_blank">
         <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
