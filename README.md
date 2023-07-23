@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="mailto:snoopn@naver.com">
-        <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/snoopn@naver.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
 
