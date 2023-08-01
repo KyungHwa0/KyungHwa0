@@ -11,11 +11,7 @@
 <!--[![Kyunghwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungHwa0&theme=nord&hide_border=true&count_private=true)](https://github.com/KyungHwa0/github-readme-stats)
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHwa0&layout=compact&theme=tokyonight)
-<p>
-  <a href="http://lovera.maxam.now.sh/">
-    <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
-  </a>
-</p>
+
 
 
 ## 📞 Contact 📞
