@@ -10,7 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHwa0&layout=compact&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungHwa0&hide=stars&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungHwa0&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
 
 
 
