@@ -8,9 +8,9 @@
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyungHwa0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/KyungHwa0)
 
-<!--[![Kyunghwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungHwa0&theme=nord&hide_border=true&count_private=true)](https://github.com/KyungHwa0/github-readme-stats)
--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHwa0&layout=compact&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungHwa0&hide=stars&show_icons=true&theme=tokyonight)
 
 
 
