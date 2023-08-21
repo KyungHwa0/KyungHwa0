@@ -12,7 +12,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungHwa0&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
 
-
+![Snake animation](https://github.com/{{KyungHwa0}}/{{KyungHwa0}}/blob/output/github-contribution-grid-snake.svg)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
