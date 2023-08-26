@@ -18,10 +18,10 @@
     <h3 style="border-bottom: none">💻 STACKS 💻</h3>
 </div>
 <div align=center> 
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 </div>
 
 <br>
@@ -31,16 +31,16 @@
 </div>
 <div align=center>
     <a href="https://www.instagram.com/wagzack/">
-        <img src="https://img.shields.io/badge/wagzack-E4405F?style=flat-square&logo=instagram&logoColor=white">
+        <img src="https://img.shields.io/badge/wagzack-E4405F?style=flat&logo=instagram&logoColor=white">
     </a>
     <a href="https://velog.io/@wack">
-        <img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=velog&logoColor=white">
+        <img src="https://img.shields.io/badge/blog-20C997?style=flat&logo=velog&logoColor=white">
     </a>
 <!--     <a href="https://velog.io/@wack">
-        <img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=tistory&logoColor=white">
+        <img src="https://img.shields.io/badge/blog-000000?style=flat&logo=tistory&logoColor=white">
     </a> -->
     <a href="mailto:snoopn@naver.com">
-        <img src="https://img.shields.io/badge/eMail-03C75A?style=flat-square&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/eMail-03C75A?style=flat&logo=Gmail&logoColor=white"> 
     </a>
 </div>
 
