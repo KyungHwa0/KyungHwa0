@@ -33,12 +33,9 @@
     <a href="https://www.instagram.com/wagzack/">
         <img src="https://img.shields.io/badge/wagzack-E4405F?style=flat&logo=instagram&logoColor=white">
     </a>
-    <a href="https://velog.io/@wack">
-        <img src="https://img.shields.io/badge/blog-20C997?style=flat&logo=velog&logoColor=white">
-    </a>
-<!--     <a href="https://velog.io/@wack">
+    <a href="https://wagzack.tistory.com">
         <img src="https://img.shields.io/badge/blog-000000?style=flat&logo=tistory&logoColor=white">
-    </a> -->
+    </a>
     <a href="mailto:snoopn@naver.com">
         <img src="https://img.shields.io/badge/eMail-03C75A?style=flat&logo=Gmail&logoColor=white"> 
     </a>
