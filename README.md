@@ -59,7 +59,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KyungHwa0&theme=nord_dark&utcOffset=8)
 
 
-// <img src="https://github.com/KyungHwa0/KyungHwa0/blob/output/github-contribution-grid-snake.svg"/>
+<!-- <img src="https://github.com/KyungHwa0/KyungHwa0/blob/output/github-contribution-grid-snake.svg"/> -->
 
 
 <!--
